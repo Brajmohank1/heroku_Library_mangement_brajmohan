@@ -3,11 +3,7 @@
 
 # LIBRARY MANAGEMENT SYSTEM
 
-- **Library Managent system** is used for management of books , Issue and return of books in a library.
-- There are two sections for users - I. STUDENT II. ADMIN
-- Student can Login ,Edit Profile , Search for books and view availability , view his issue history.
-- Admin will manage the whole system.
-
+**Library Managent system** is used for management of books , Issue and return of books in a library.
 
 _Contributions and bug reports are welcome._
 
@@ -26,9 +22,9 @@ _Contributions and bug reports are welcome._
 ## Key Features
 
 - Free and open source.
-- Custom URLs for shortened links
-- Private statistics for shortened URLs.
-- View your links.
+- There are two sections for users - I. STUDENT II. ADMIN
+- Student can Login ,Edit Profile , Search for books and view availability , view his issue history.
+- Admin will manage the whole system.
 
 ## Stack
 
