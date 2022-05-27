@@ -1,7 +1,7 @@
 
 <p align="center"><a href="https://urlshort466.herokuapp.com" title="urlShortener"><img src="https://scontent.fccu10-1.fna.fbcdn.net/v/t39.30808-6/266742879_1386159495174323_475169212154149857_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=udKkYivbLNkAX_1tE9P&_nc_ht=scontent.fccu10-1.fna&oh=00_AT9po6OsbRx7ErL9PTH-x8wtyf9nIhkkdfKitiy-Yoefwg&oe=61C20677" alt="urlShortener"></a></p>
 
-# UrlShortener
+# LIBRARY MANAGEMENT SYSTEM
 
 **UrlShortener** is a modern URL shortener with support for custom domains. Shorten URLs, manage your links and view the click rate statistics.
 
@@ -52,7 +52,7 @@ You need to have [Node.js](https://nodejs.org/), [mongodb](https://www.mongodb.c
 | Language   | Link                                                                              | Description                                        |
 | ---------- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
 
-| Node.js    | [https://nodejs.org/en/](https://nodejs.org/en/)                            | Node.js for server          |
+| Node.js    | [https://nodejs.org/en/](https://nodejs.org/en/)                            | Node.js for server          | #
 | React.js   | [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)            | React.js for Front-End          |
 
 
