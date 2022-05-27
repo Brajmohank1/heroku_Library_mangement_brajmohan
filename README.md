@@ -7,7 +7,6 @@
 - There are two sections for users - I. STUDENT II. ADMIN
 - Student can Login ,Edit Profile , Search for books and view availability , view his issue history.
 - Admin will manage the whole system.
-- 
 
 
 _Contributions and bug reports are welcome._
