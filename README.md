@@ -52,8 +52,8 @@ You need to have [Node.js](https://nodejs.org/), [mongodb](https://www.mongodb.c
 | Language   | Link                                                                              | Description                                        |
 | ---------- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
 
-| Node.js    | [https://nodejs.org/en/](https://nodejs.org/en/)                            | Node.js for server          | #
-| React.js   | [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)            | React.js for Front-End          |
+- | Node.js    | [https://nodejs.org/en/](https://nodejs.org/en/)                                                  | Node.js for server       |
+- | React.js   | [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)    | React.js for Front-End   |
 
 
 ## Contributing
